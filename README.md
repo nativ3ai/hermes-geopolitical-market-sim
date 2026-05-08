@@ -2,17 +2,23 @@
 
 PrediHermes is a Hermes skill for geopolitical market forecasting. It wires together:
 
-<!-- MARKEE:START:0x4dbc05550c15d6041f5738c50dffd8b7e64137e2 -->
-> 🪧🪧🪧🪧🪧🪧🪧 MARKEE 🪧🪧🪧🪧🪧🪧🪧
->
-> gm🪧
->
-> 
->
-> 🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧
->
-> *Change this message for 0.007 ETH on the [Markee App](https://markee.xyz/ecosystem/platforms/github/0x4dbc05550c15d6041f5738c50dffd8b7e64137e2).*
-<!-- MARKEE:END:0x4dbc05550c15d6041f5738c50dffd8b7e64137e2 -->
+<!-- MARKEE:START:0x57f50086e359d24cc65bcc5614e30123ef39ec76 -->
+```
+  ╔══════════════════════════════════════════════════════╗
+  ║                  ⡷⢾ ⣎⣱ ⣏⡱ ⣇⠜ ⣏⡉ ⣏⡉                 ║
+  ║                  ⠇⠸ ⠇⠸ ⠇⠱ ⠇⠱ ⠧⠤ ⠧⠤                 ║
+  ╠══════════════════════════════════════════════════════╣
+  ║                                                      ║
+  ║   gm🪧                                                ║
+  ║                                                      ║
+  ╠══════════════════════════════════════════════════════╣
+  ║                 0.007 ETH to change                  ║
+  ╚══════════════════════════════════════════════════════╝
+                 ││                      ││
+   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+*Show the world you support this repo! [Change this message at markee.xyz](https://markee.xyz/ecosystem/platforms/github/0x57f50086e359d24cc65bcc5614e30123ef39ec76) ^*
+<!-- MARKEE:END:0x57f50086e359d24cc65bcc5614e30123ef39ec76 -->
 
 - WorldOSINT headless feeds for modular OSINT ingestion
 - Polymarket Gamma/CLOB for open market discovery and pricing
