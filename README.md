@@ -2,7 +2,7 @@
 
 PrediHermes is a Hermes skill for geopolitical market forecasting. It wires together:
 
-<!-- MARKEE:START:0x1e95812f4ce5178339d55d17727e7355a4ced67b -->
+<!-- MARKEE:START:0x173fe8acae307995fcc430c366961ed8daabc337 -->
 ```
   ╔══════════════════════════════════════════════════════╗
   ║                  ⡷⢾ ⣎⣱ ⣏⡱ ⣇⠜ ⣏⡉ ⣏⡉                 ║
@@ -17,8 +17,8 @@ PrediHermes is a Hermes skill for geopolitical market forecasting. It wires toge
                  ││                      ││
    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
-*Show the world you support this repo! [Change this message at markee.xyz](https://markee.xyz/markee/0x1e95812f4ce5178339d55d17727e7355a4ced67b) ^*
-<!-- MARKEE:END:0x1e95812f4ce5178339d55d17727e7355a4ced67b -->
+*Show the world you support this repo! [Change this message at markee.xyz](https://markee.xyz/markee/0x173fe8acae307995fcc430c366961ed8daabc337) ^*
+<!-- MARKEE:END:0x173fe8acae307995fcc430c366961ed8daabc337 -->
 
 - WorldOSINT headless feeds for modular OSINT ingestion
 - Polymarket Gamma/CLOB for open market discovery and pricing
